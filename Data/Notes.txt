@@ -1,0 +1,11 @@
+- Create New Map (Name and Save)
+- Load Saved Map
+- Saving and Loading Maps
+- Choose Map Type (Town, City, Neighborhood, Region, Island)
+- Generate Landmass
+- Show Available Features (Natural, Man-Made)
+- Place Feature
+- Rotate Feature
+- Edit Feature (Edit Landscape)
+- Export Screenshot of Map
+- Map Data Structure

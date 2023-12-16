@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bik2s8m4tjpn8"]
+
+[ext_resource type="Script" path="res://Scripts/Components/Feature.gd" id="1_s55f3"]
+
+[node name="Feature" type="Sprite2D"]
+script = ExtResource("1_s55f3")

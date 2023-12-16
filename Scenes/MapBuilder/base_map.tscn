@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cii80t0stnmeh"]
+
+[ext_resource type="Script" path="res://Scripts/Managers/MapManager.gd" id="1_xbw8q"]
+
+[node name="BaseMap" type="Node2D" node_paths=PackedStringArray("FeatureHolder")]
+script = ExtResource("1_xbw8q")
+FeatureHolder = NodePath("FeatureHolder")
+
+[node name="FeatureHolder" type="Node2D" parent="."]
